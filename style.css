@@ -12,7 +12,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url('https://picsum.photos/1920/1080?random=1');/* Ganti URL ini dengan gambar hutan pilihan Anda */
+    background-image: url('https://picsum.photos/1920/1080?random=1');/* latar belakang */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
